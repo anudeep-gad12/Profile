@@ -2,12 +2,13 @@
 
 ## I'm a FrondEnd Developer and aspiring to be a Full Stack Developer!!
 
-- ⭐ I’m currently making a project using React🙌
 - 🎯 2022 Goals:
-  - Learn Next.js, Smart Contracts
+  --~~I’m currently making a project using React🙌 
+  - ~~Learn Next.js
   - Learn BackEnd Development
     - Node.js
     - MongoDB
+  - Learn Smart Contracts
   - Contribute to open source projects
 - 🔦 Fun fact: I love Starwars
 
