@@ -5,7 +5,7 @@
 - 🎯 2022 Goals:
   - ~~I’m currently making a project using React🙌~~
   - ~~Learn Next.js~~
-  - ~~Learn BackEnd Development
+  - ~~Learn BackEnd Development~~
     - Node.js
     - MongoDB
 - 🔦 Fun fact: I love Starwars
