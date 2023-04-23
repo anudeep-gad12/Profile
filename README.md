@@ -5,11 +5,9 @@
 - 🎯 2022 Goals:
   - ~~I’m currently making a project using React🙌~~
   - ~~Learn Next.js~~
-  - Learn BackEnd Development
+  - ~~Learn BackEnd Development
     - Node.js
     - MongoDB
-  - Learn Smart Contracts
-  - Contribute to open source projects
 - 🔦 Fun fact: I love Starwars
 
 ### Connect with me:
@@ -17,7 +15,7 @@
 [<img align="left" alt="Anudeep | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anudeep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/skywalker_here66/
+[instagram]: https://www.instagram.com/skywalkerhere/
 [linkedin]: https://www.linkedin.com/in/anudeepgadige/
 
 <br />
